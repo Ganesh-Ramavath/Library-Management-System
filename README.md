@@ -29,7 +29,7 @@ Requests (API requests)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/library-management-system.git
+git clone https://github.com/Ganesh-Ramavath/library-management-system.git
 cd library-management-system
 
 2️⃣ Install Dependencies
