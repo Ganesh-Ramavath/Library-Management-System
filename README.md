@@ -16,13 +16,8 @@ Uvicorn (Server)
 
 Requests (API requests)
 
-📂 Project Structure
-📁 library-management-system
-│-- cli.py           # Command-line interface for user interactions
-│-- database.py      # Handles SQLite database operations
-│-- models.py        # Pydantic models for data validation
-│-- requirements.txt # Dependencies
-│-- main.py          # FastAPI server setup (to be added if missing)
+![image](https://github.com/user-attachments/assets/53d4d074-2ecb-43c6-8eb4-cb501c5e341b)
+
 
 
 🚀 Setup Instructions
